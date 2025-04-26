@@ -48,6 +48,7 @@ Generated data can significantly benefit contrastive learning — but only with 
 
 	1.	Clone the repository
 git clone https://github.com/your-username/contrastive-learning-generated-data.git
+
 cd contrastive-learning-generated-data
 
 	2.	Set up a Python environment
