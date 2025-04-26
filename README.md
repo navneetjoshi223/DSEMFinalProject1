@@ -47,12 +47,12 @@ Generated data can significantly benefit contrastive learning — but only with 
 # How to run
 
 	1.	Clone the repository
-```git clone https://github.com/your-username/contrastive-learning-generated-data.git
-cd contrastive-learning-generated-data```
+git clone https://github.com/your-username/contrastive-learning-generated-data.git
+cd contrastive-learning-generated-data
 
 	2.	Set up a Python environment
-```python3 -m venv venv
-source venv/bin/activate```
+python3 -m venv venv
+source venv/bin/activate
 
 	3.	Install required packages
 pip install -r requirements.txt
